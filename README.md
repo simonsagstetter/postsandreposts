@@ -27,14 +27,21 @@ Posts and Reposts is an **open source** MIT-licensed chrome browser extension to
 
 - Splits feed into posts and reposts
 - Continues to sort feed on the fly while scrolling
-- Remembers in the active tab
-- Remebers scroll progress when navigating back and forth
+- Remembers your last choosen feed content type
+- Remembers scroll progress when navigating back and forth
 - Counts the total posts and reposts
 
 ## Install
 
-#### SOON!
+#### SOON! Extension is waiting for approval
+
 This is a beta version and still in development. You have to load it as an unpacked extension package until it'll be awailable in the chrome extensions store. 
+
+- [Download the latest release here](https://github.com/simonsagstetter/postsandreposts/releases)
+- Unzip the package
+- In your browser go to extensions
+- Activate developer mode
+- Load unpacked extension and chose the folder of the extension
 
 ## Contribution
 
