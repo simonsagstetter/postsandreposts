@@ -1,6 +1,7 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 /.history
+./history/
 
 # dependencies
 /node_modules
@@ -20,4 +21,4 @@ npm-debug.log*
 
 .editorconfig
 
-.prettierignore
+postsandreposts.code-workspace
