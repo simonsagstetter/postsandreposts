@@ -10,14 +10,19 @@ Post and Reposts
 <div align="center">
 
 
-![Static Badge](https://img.shields.io/badge/beta-585858?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge)
+<a href="https://chromewebstore.google.com/detail/posts-and-reposts/nifenhehcbhgjbemfhepdeamnicpdpcm">
+
+![Static Badge](https://img.shields.io/badge/install%20for%20chrome-585858?style=for-the-badge&logo=googlechrome&logoColor=white)
+
+</a>
+
+![Static Badge](https://img.shields.io/badge/version-1.0.1-blue?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/coverage-90%25-brightgreen?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/license-MIT-orange?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/contributers-1-red?style=for-the-badge)
 
-**This is a beta version and still in development. You have to load it as an unpacked extension package until it'll be awailable in the chrome extensions store.**
+**Chrome Extension for sorting your soundcloud feed.**
 </div>
 
 ## Summary
@@ -27,16 +32,27 @@ Posts and Reposts is an **open source** MIT-licensed chrome browser extension to
 
 - Splits feed into posts and reposts
 - Continues to sort feed on the fly while scrolling
-- Remembers in the active tab
-- Remebers scroll progress when navigating back and forth
 - Counts the total posts and reposts
 
 ## Install
 
-#### SOON!
-This is a beta version and still in development. You have to load it as an unpacked extension package until it'll be awailable in the chrome extensions store. 
+#### Chrome Web store
+
+<a href="https://chromewebstore.google.com/detail/posts-and-reposts/nifenhehcbhgjbemfhepdeamnicpdpcm">
+
+![Static Badge](https://img.shields.io/badge/install%20for%20chrome-585858?style=for-the-badge&logo=googlechrome&logoColor=white)
+
+</a>
+
+#### Install via developer mode
+- [Download the latest release here](https://github.com/simonsagstetter/postsandreposts/releases)
+- Unzip the package
+- Go to browser extensions
+- Activate developer mode
+- Click load unpacked extension and choose folder of this extension
 
 ## Contribution
 
 Suggestions and pull requests are welcomed!
+
 
