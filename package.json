@@ -1,6 +1,6 @@
 {
   "name": "postsandreposts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Will sort your soundcloud feed into posts and reposts automatically",
   "private": true,
   "scripts": {
