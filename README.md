@@ -9,7 +9,6 @@ Post and Reposts
 
 <div align="center">
 
-
 <a href="https://chromewebstore.google.com/detail/posts-and-reposts/nifenhehcbhgjbemfhepdeamnicpdpcm">
 
 ![Static Badge](https://img.shields.io/badge/install%20for%20chrome-585858?style=for-the-badge&logo=googlechrome&logoColor=white)
@@ -22,10 +21,18 @@ Post and Reposts
 ![Static Badge](https://img.shields.io/badge/license-MIT-orange?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/contributers-1-red?style=for-the-badge)
 
+<a href="https://buymeacoffee.com/simonsagstd">
+
+![Static Badge](https://img.shields.io/badge/buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
+
+</a>
+
 **Chrome Extension for sorting your soundcloud feed.**
+
 </div>
 
 ## Summary
+
 Posts and Reposts is an **open source** MIT-licensed chrome browser extension to sort your soundcloud feed. It will **split your feed into posts and reposts on the fly.** This can come in quite handy as the are always a lot more reposts than posts in your feed. Often you just wanna know what your favorite artits have posted.
 
 ## Features
@@ -45,6 +52,7 @@ Posts and Reposts is an **open source** MIT-licensed chrome browser extension to
 </a>
 
 #### Install via developer mode
+
 - [Download the latest release here](https://github.com/simonsagstetter/postsandreposts/releases)
 - Unzip the package
 - Go to browser extensions
@@ -54,5 +62,3 @@ Posts and Reposts is an **open source** MIT-licensed chrome browser extension to
 ## Contribution
 
 Suggestions and pull requests are welcomed!
-
-
