@@ -15,7 +15,7 @@ Post and Reposts
 
 </a>
 
-![Static Badge](https://img.shields.io/badge/version-1.0.1-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/version-1.0.2-blue?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/coverage-90%25-brightgreen?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/license-MIT-orange?style=for-the-badge)
